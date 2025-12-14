@@ -1,4 +1,5 @@
 Vídeo: https://www.youtube.com/watch?v=XWNpH_e9NDQ
+Codesandbox: https://codesandbox.io/p/sandbox/ajedrez-3-j5lp9k
 
 **Visión General**
 
